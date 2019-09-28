@@ -127,4 +127,11 @@ We need to load the module in our python code to use its functionality. Python p
 * The import statement
 * The from-import statement
 
+> ## Common Exceptions
+A list of common exceptions that can be thrown from a normal python program is given below.
 
+* ZeroDivisionError: Occurs when a number is divided by zero.
+* NameError: It occurs when a name is not found. It may be local or global.
+* IndentationError: If incorrect indentation is given.
+* IOError: It occurs when Input Output operation fails.
+* EOFError: It occurs when the end of the file is reached, and yet operations are being performed.
