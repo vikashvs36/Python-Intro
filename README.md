@@ -121,3 +121,10 @@ Eg:
     else:
         # block of statements
 
+> ## Loading the module in our python code
+We need to load the module in our python code to use its functionality. Python provides two types of statements as defined below.
+
+* The import statement
+* The from-import statement
+
+
